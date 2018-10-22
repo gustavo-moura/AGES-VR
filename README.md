@@ -1,6 +1,14 @@
 # AGES VR
 ## Bem-vindo 
 
+Utilizar
+
+[https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Cedars-Sinai-Unveils-Therapeutic-Virtual-Reality-to-Enhance-Patient-Experience.png](src)
+
+[image](https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Cedars-Sinai-Unveils-Therapeutic-Virtual-Reality-to-Enhance-Patient-Experience.png)
+
+Para Hospitais e Clínicas Laboratoriais cujos pacientes passam diversas horas em procedimentos hospitalares, o AGES VR é um sistema de realidade virtual que foi criado para ajudar esses pacientes a enfrentarem procedimentos médicos de longa duração, e diferentemente de outros produtos, o nosso AGES VR consegue auxiliar crianças e enfermeiros a realizarem os procedimentos em sincronia.
+
 You can use the [editor on GitHub](https://github.com/gustavo-moura/AGES-VR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
