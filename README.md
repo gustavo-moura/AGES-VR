@@ -1,4 +1,4 @@
-# AGES VR
+## AGES VR
 
 ### Trazendo a Realidade Virtual para a área médica
 
