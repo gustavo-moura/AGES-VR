@@ -1,5 +1,9 @@
 # AGES VR
-## Bem-vindo 
+
+Nós utilizamos a realidade virtual em ambientes hospitalares.
+
+Na área de oncologia, as crianças vão ao hospital rotineiramente para coleta de sangue e execução de procedimentos médicos.
+A realidade virtual é capaz de distrair as crianças durante os procedimentos médicos e assim, elas tem as dores da aplicação e ansiedade do momento diminuídas.
 
 Utilizar
 
@@ -7,11 +11,31 @@ Utilizar
 
 [image](https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Cedars-Sinai-Unveils-Therapeutic-Virtual-Reality-to-Enhance-Patient-Experience.png)
 
-Para Hospitais e Clínicas Laboratoriais cujos pacientes passam diversas horas em procedimentos hospitalares, o AGES VR é um sistema de realidade virtual que foi criado para ajudar esses pacientes a enfrentarem procedimentos médicos de longa duração, e diferentemente de outros produtos, o nosso AGES VR consegue auxiliar crianças e enfermeiros a realizarem os procedimentos em sincronia.
+## AGES VR para procedimentos longos
 
-You can use the [editor on GitHub](https://github.com/gustavo-moura/AGES-VR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Para Hospitais e Clínicas Laboratoriais cujos pacientes passam diversas horas em procedimentos hospitalares, o AGES VR é um sistema de realidade virtual que foi criado para ajudar esses pacientes a enfrentarem procedimentos médicos de longa duração. O AGES VR consegue auxiliar crianças e enfermeiros a realizarem os procedimentos em sincronia e com muito mais tranquilidade.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+## As crianças adoram!
+
+![](https://cdn.trendhunterstatic.com/thumbs/kid-friendly-vr.jpeg)
+
+Através de uma ambientação divertida e de um engajamento com a história, as crianças se sentem mais seguras e menos tensas em participar de um procedimento médico.
+
+O produto é um sistema em realidade virtual que exibe um vídeo ambientado em um outro mundo para uma criança e que sincronizado com o vídeo exibido em um tablet da enfermeira informa momentos exatos para realizar os procedimentos na criança, alterando a percepção dela.
+
+
+## Hospitais e Clínicas
+
+Para hospitais e clínicas médicas oferecemos a solução tecnólogica para a melhoria da experiência dos pacientes no ambiente médico. Através dos nossos produtos sua clínica pode contar com a tranquilidade e com o ambiente divertido que o AGES VR é capaz de proporcionar.
+
+Contrate a plataforma de vídeos e jogos
+
+
+
+
+
 
 ### Markdown
 
