@@ -1,15 +1,13 @@
 # AGES VR
 
-Nós utilizamos a realidade virtual em ambientes hospitalares.
+### Trazendo a Realidade Virtual para a área médica
 
-Na área de oncologia, as crianças vão ao hospital rotineiramente para coleta de sangue e execução de procedimentos médicos.
+Na área de oncologia, as crianças vão ao hospital rotineiramente para coleta de sangue e execução de procedimentos médicos. Procedimentos esses que causam grande desconforto e tensão nas crianças, dificultando muito para a equipe médica sua execução com sucesso. Quando uma criança está passando por um momento díficil como uma doença séria, 
 A realidade virtual é capaz de distrair as crianças durante os procedimentos médicos e assim, elas tem as dores da aplicação e ansiedade do momento diminuídas.
 
-Utilizar
+![](https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Cedars-Sinai-Unveils-Therapeutic-Virtual-Reality-to-Enhance-Patient-Experience.png)
 
-[https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Cedars-Sinai-Unveils-Therapeutic-Virtual-Reality-to-Enhance-Patient-Experience.png](src)
 
-[image](https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Cedars-Sinai-Unveils-Therapeutic-Virtual-Reality-to-Enhance-Patient-Experience.png)
 
 ## AGES VR para procedimentos longos
 
@@ -26,6 +24,7 @@ Através de uma ambientação divertida e de um engajamento com a história, as 
 O produto é um sistema em realidade virtual que exibe um vídeo ambientado em um outro mundo para uma criança e que sincronizado com o vídeo exibido em um tablet da enfermeira informa momentos exatos para realizar os procedimentos na criança, alterando a percepção dela.
 
 
+
 ## Hospitais e Clínicas
 
 Para hospitais e clínicas médicas oferecemos a solução tecnólogica para a melhoria da experiência dos pacientes no ambiente médico. Através dos nossos produtos sua clínica pode contar com a tranquilidade e com o ambiente divertido que o AGES VR é capaz de proporcionar.
@@ -33,37 +32,10 @@ Para hospitais e clínicas médicas oferecemos a solução tecnólogica para a m
 Contrate a plataforma de vídeos e jogos
 
 
+## AGES VR para transtornos psicológicos
+
+Diversos pesquisadores estudam os efeitos da realidade virtual para tratamentos de fobia e de grandes medos. Uma das áreas de atuação da AGES VR é auxiliar esses pesquisadores a implementarem essas pesquisas e trazer grandes sucessos no tratamento.
+
+![](http://www.zerintia.com/blog/wp-content/uploads/2016/01/virtual_reality1.jpg)
 
 
-
-
-### Markdown
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gustavo-moura/AGES-VR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
