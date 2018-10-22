@@ -2,11 +2,10 @@
 
 ### Trazendo a Realidade Virtual para a área médica
 
-Na área de oncologia, as crianças vão ao hospital rotineiramente para coleta de sangue e execução de procedimentos médicos. Procedimentos esses que causam grande desconforto e tensão nas crianças, dificultando muito para a equipe médica sua execução com sucesso. Quando uma criança está passando por um momento díficil como uma doença séria, 
-A realidade virtual é capaz de distrair as crianças durante os procedimentos médicos e assim, elas tem as dores da aplicação e ansiedade do momento diminuídas.
-
 ![](https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Cedars-Sinai-Unveils-Therapeutic-Virtual-Reality-to-Enhance-Patient-Experience.png)
 
+Na área de oncologia, as crianças vão ao hospital rotineiramente para coleta de sangue e execução de procedimentos médicos. Procedimentos esses que causam grande desconforto e tensão nas crianças, dificultando muito para a equipe médica sua execução com sucesso. Quando uma criança está passando por um momento díficil como uma doença séria, 
+A realidade virtual é capaz de distrair as crianças durante os procedimentos médicos e assim, elas tem as dores da aplicação e ansiedade do momento diminuídas.
 
 
 ## AGES VR para procedimentos longos
@@ -34,8 +33,8 @@ Contrate a plataforma de vídeos e jogos
 
 ## AGES VR para transtornos psicológicos
 
-Diversos pesquisadores estudam os efeitos da realidade virtual para tratamentos de fobia e de grandes medos. Uma das áreas de atuação da AGES VR é auxiliar esses pesquisadores a implementarem essas pesquisas e trazer grandes sucessos no tratamento.
-
 ![](http://www.zerintia.com/blog/wp-content/uploads/2016/01/virtual_reality1.jpg)
+
+Diversos pesquisadores estudam os efeitos da realidade virtual para tratamentos de fobia e de grandes medos. Uma das áreas de atuação da AGES VR é auxiliar esses pesquisadores a implementarem essas pesquisas e trazer grandes sucessos no tratamento.
 
 
